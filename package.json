@@ -6,7 +6,7 @@
   "description": "Developer && Web Designer ",
   "main": "./src/index.jsx",
   "scripts": {
-    "predeploy": "npm run build && echo chendo.dev > ./build/CNAME",
+    "predeploy": "npm run build && echo chendo.dev444 > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "webpack serve --open",
     "build": "webpack --mode production",
